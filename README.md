@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **satya77888narayanpatra@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IEHsTNEaPZ-iDvaeG5hLVrf-MDMKuyKA/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zq2zAc5h4Mhal9O_4dNMdE13fKbiOoOM/view?usp=share_link)
 
 - ⚡ Fun fact **I think it's funny not to be funny at all**
 
