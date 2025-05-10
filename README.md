@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, html, css, javascript, c++, DSA**
 
-- 📫 How to reach me **satya77888narayanpatra@gmail.com**
+- 📫 How to reach me **satyapatra.nit@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zq2zAc5h4Mhal9O_4dNMdE13fKbiOoOM/view?usp=share_link)
 
