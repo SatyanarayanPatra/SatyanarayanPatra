@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-💼 Software Engineer with **2+ years of experience** building scalable products across **FinTech, SaaS, and client-facing platforms**
+💼 Software Engineer with **3+ years experience building production applications** building scalable products across **FinTech, SaaS, and client-facing platforms**
 
 ⚡ Strong expertise in designing modern web applications using:
 
