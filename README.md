@@ -14,7 +14,7 @@
 
 </div>
 
-----
+---
 
 ## 🚀 About Me
 
@@ -22,12 +22,12 @@
 
 ⚡ Specialized in:
 
-- ⚛️ React.js / Next.js / Redux / TypeScript  
-- 🟢 Node.js / Express.js / REST APIs  
-- 🗄️ MySQL / MongoDB / PostgreSQL  
-- 🔐 JWT / MFA / RBAC / Secure Systems  
-- ☁️ AWS / Azure / CI/CD / GitHub Actions  
-- 🧪 Playwright / Automation / Testing  
+- ⚛️ React.js / Next.js / Redux / TypeScript
+- 🟢 Node.js / Express.js / REST APIs
+- 🗄️ MySQL / MongoDB / PostgreSQL
+- 🔐 JWT / MFA / RBAC / Secure Systems
+- ☁️ AWS / Azure / CI/CD / GitHub Actions
+- 🧪 Playwright / Automation / Testing
 
 🎯 Focused on solving real business problems with scalable architecture, clean code, and high-performance engineering.
 
@@ -38,21 +38,25 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind,materialui" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### DevOps / Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" />
 </p>
@@ -61,7 +65,7 @@
 
 ## 🏆 Professional Highlights
 
-✅ Improved UI responsiveness & user experience through optimization initiatives  
+✅ Improved UI responsiveness & user experience through optimization initiatives
 
 ✅ Built secure authentication systems using **JWT + MFA + RBAC**
 
@@ -76,15 +80,19 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Job Outreach CLI
+
 TypeScript automation tool for lead management, outreach workflows, recruiter follow-ups, and productivity pipelines.
 
 ### 🔹 Full Stack Student Management System
+
 React + Node.js + PostgreSQL application with CRUD, pagination, validations, and scalable backend design.
 
 ### 🔹 SaaS Pricing Platform
+
 Responsive pricing UI built using Next.js + Tailwind CSS with accessibility and animations.
 
 ### 🔹 Enterprise FinTech Platform Contributions
+
 Worked on scalable UI systems, secure document workflows, backend integrations, and product enhancements.
 
 ---
@@ -118,7 +126,7 @@ Worked on scalable UI systems, secure document workflows, backend integrations, 
 ✔️ Security by Design  
 ✔️ Performance Matters  
 ✔️ Ownership Mindset  
-✔️ User Experience First  
+✔️ User Experience First
 
 ---
 
