@@ -1,13 +1,16 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Satyanarayan Patra Banner" width="100%" />
-</p>
 <div align="center">
 
-# Hi 👋, I'm Satyanarayan Patra
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+  <img alt="Satyanarayan Patra Banner" src="./assets/banner-dark.png" width="100%">
+</picture>
 
-### Full Stack Software Engineer | React.js • Node.js • TypeScript • Scalable Web Applications
+# Hi 👋 I'm Satyanarayan Patra
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+Production-Grade+Applications;Frontend+%2B+Backend+Engineer;React.js+%7C+Node.js+%7C+Next.js+%7C+SQL;Focused+on+Performance%2C+Scale+%26+Clean+Code" />
+### Full Stack Software Engineer | 3+ Years Experience
+
+### React.js • Node.js • TypeScript • Next.js • Scalable Web Applications
 
 </div>
 
@@ -15,18 +18,18 @@
 
 ## 🚀 About Me
 
-💼 Software Engineer with **3+ years experience building production applications** building scalable products across **FinTech, SaaS, and client-facing platforms**
+💼 Software Engineer with **3+ years of experience** building production-grade applications across **FinTech, SaaS, enterprise, and client-facing platforms**.
 
-⚡ Strong expertise in designing modern web applications using:
+⚡ Specialized in:
 
 - ⚛️ React.js / Next.js / Redux / TypeScript  
 - 🟢 Node.js / Express.js / REST APIs  
 - 🗄️ MySQL / MongoDB / PostgreSQL  
 - 🔐 JWT / MFA / RBAC / Secure Systems  
-- ☁️ AWS / Azure / CI-CD / GitHub Actions  
-- 🧪 Playwright / Testing / Automation  
+- ☁️ AWS / Azure / CI/CD / GitHub Actions  
+- 🧪 Playwright / Automation / Testing  
 
-🎯 Focused on solving real business problems through clean architecture and high-performance engineering.
+🎯 Focused on solving real business problems with scalable architecture, clean code, and high-performance engineering.
 
 📍 India | Open to Opportunities | Immediate Joiner
 
@@ -73,16 +76,16 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Job Outreach CLI
-TypeScript automation tool for lead management, outreach workflows, and recruiter follow-ups.
+TypeScript automation tool for lead management, outreach workflows, recruiter follow-ups, and productivity pipelines.
 
 ### 🔹 Full Stack Student Management System
-React + Node.js + PostgreSQL application with CRUD, pagination, validations.
+React + Node.js + PostgreSQL application with CRUD, pagination, validations, and scalable backend design.
 
 ### 🔹 SaaS Pricing Platform
-Responsive pricing UI built using Next.js + Tailwind + animations.
+Responsive pricing UI built using Next.js + Tailwind CSS with accessibility and animations.
 
 ### 🔹 Enterprise FinTech Platform Contributions
-Worked on scalable UI systems, secure document workflows, backend integrations.
+Worked on scalable UI systems, secure document workflows, backend integrations, and product enhancements.
 
 ---
 
@@ -90,9 +93,17 @@ Worked on scalable UI systems, secure document workflows, backend integrations.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SatyanarayanPatra&show_icons=true&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SatyanarayanPatra&show_icons=true&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SatyanarayanPatra&show_icons=true&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=SatyanarayanPatra&show_icons=true&theme=default&hide_border=true">
+</picture>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyanarayanPatra&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyanarayanPatra&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyanarayanPatra&theme=tokyonight&hide_border=true" />
 
@@ -113,10 +124,18 @@ Worked on scalable UI systems, secure document workflows, backend integrations.
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/satyanarayan-patra"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:satyapatra.nit@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://github.com/SatyanarayanPatra"><img src="https://skillicons.dev/icons?i=github" /></a>
+<p>
+<a href="https://linkedin.com/in/satyanarayan-patra">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:satyapatra.nit@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/SatyanarayanPatra">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
 ---
